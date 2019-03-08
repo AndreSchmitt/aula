@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+<div style="background-color:#F229A9;color:white;padding:20px 10px 20px 40px;
+margin:310px;
+font-family:verdana;
+border-radius:10px;
+font-size:20px;
+box-shadow:10px 10px #D7D3D6;">Botão</div>
+
+</body>
+</html>
