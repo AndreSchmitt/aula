@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<title>Curriculo</title>
+<body>
+<div style="height:10px; background-color: Grey"></div>
+<div style="font-size:50px;"><b>André Arnoldo Schmitt</b></div>
+<p>Data de Nascimento: 05/06/2001
+<br>Rua Ciriaco Meirinho, Nº 13
+<br>Itajaí<br>(47) 99963-5368
+<br>Randonslock@outlook.com.br</p>
+<div style="height:10px; background-color: Grey"></div>
+<h2> Experiência </h2>
+<p> &bull; Nenhuma</p>
+<h2> Educação </h2>
+<p> de 2007 a 2018, Ensino Médio e Fundamental - Colégio Cenecista Pedro Antônio Fayal </p>
+<h2> Aptidões e competências pessoais </h2>
+<p> - Grande e rápida capacidade de aprendizado<br> - Esforçado e com muita força de vontade<br> - pontual</p>
+<h2> Línguas </h2>
+<p> Intermediário em inglês, e básico em espanhol </p>
+<h2> Informações Adicionais </h2>
+<p>&bull; Cursando sistemas para internet na Univali em Itajaí<br>&bull; Conhecimento em Photoshop</p>
+<img src="https://i.imgur.com/XkEK04C.jpg" alt="foto de perfil"<span style="float:right;margin-top:-684px;height:300; width:270px;"></span>
+
+
+
+
+</body>
+</html>
