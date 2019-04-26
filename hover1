@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+div:hover{
+background-color:#E3E3E3;
+}
+</style>
+
+</head>
+<body>
+<div style="height:50px;font-size:10px;color:#E5E5E5;width:50px;border:1px solid">
+<span style="font-size:10px;color:#6C9DF3;margin-left:17px;font-family:verdana"><<</span></div>
+<div style="height:50px;float:center;margin-top:-52px;margin-left:50px;color:#E5E5E5;width:50px;border:1px solid">
+<span style="font-size:20px;color:#6C9DF3;font-family:verdana;margin-left:17px;">1</span></div>
+<div style="height:50px;float:center;margin-top:-52px;margin-left:100px;color:#E5E5E5;width:50px;border:1px solid">
+<span style="font-size:20px;color:#6C9DF3;margin-left:17px;font-family:verdana">2</span></div>
+<div style="height:50px;float:center;margin-top:-52px;margin-left:150px;color:#E5E5E5;width:50px;border:1px solid">
+<span style="font-size:20px;margin-left:17px;color:#6C9DF3;font-family:verdana">3</span></div>
+<div style="height:50px;float:center;margin-top:-52px;margin-left:200px;color:#E5E5E5;width:50px;border:1px solid">
+<div style="font-size:10px;color:#6C9DF3;font-family:verdana">>></div></div>
+
+
+
+
+</body>
+</html>
