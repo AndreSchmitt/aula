@@ -20,6 +20,29 @@ background-color:#E3E3E3;
 <div style="height:50px;float:center;margin-top:-52px;margin-left:200px;color:#E5E5E5;width:50px;border:1px solid">
 <div style="font-size:10px;color:#6C9DF3;font-family:verdana">>></div></div>
 
+///////////////////////////////////////////////////////////////////////////////////////////
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+background-color:#838383;
+}
+</style>
+</head>
+<body>
+<div style=background-color:white;height:50px;width:770px;></div>
+
+
+
+</body>
+</html>
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////
+
 
 
 
