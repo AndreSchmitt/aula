@@ -8,8 +8,8 @@ background-color:#838383;
 </style>
 </head>
 <body>
-<div style=background-color:white;height:100px;width:300px;margin-left:235px></div>
-<div style=background-color:white;height:50px;width:770px;margin-top:50px></div>
+<div style=height:100px;width:300px;margin-left:235px;font-size:30px;font-family:Fantasy;>Minha Jornada no League of Legends</div>
+<div style=background-color:white;height:30px;width:770px;margin-top:50px></div>
 <br>
 <div style=background-color:white;height:100px;width:300px;margin-left:235px></div>
 <br>
