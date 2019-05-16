@@ -6,11 +6,11 @@ body {
 background-color:#323c4d;
 }
 h1 {
-text-align:center;font-family:Verdana;font-size:60px;
+text-align:center;font-family:Courier;font-size:60px;color:white;
   }
 p {
 font-size:20px;
-font-family:Verdana;
+font-family:Verdana;color:white;
 }
 IMG.displayed {
 display: block;
@@ -22,7 +22,9 @@ width:100px;
 background-color:#2e613b;
 color:white;
 margin-left:650px;
-margin-top:-100px;
+margin-top:-102px;
+border: 1px solid;
+border-color: black;
 }
 div.menu:hover {
     background-color:black;
@@ -42,7 +44,7 @@ color:white;
 </style>
 </head>
 <body>
-<h1 class="sobre"> Minha jornada no League of Legends </h1>
+<h1 class="sobre" style= "border:5px solid;border-color:black;background-color:black;border-width:100px;margin-top:-5px"> Minha jornada no League of Legends </h1>
 <br>
 <div class="menu" align="center" style="margin-top:0px"><br><br>Sobre mim</div>
 <div class="menu" align="center" style="margin-left:750px"><br><br>Season 4</div>
