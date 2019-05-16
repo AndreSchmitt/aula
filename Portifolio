@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+background-color:#323c4d;
+}
+h1 {
+text-align:center;font-family:Verdana;font-size:60px;
+  }
+p {
+font-size:20px;
+font-family:Verdana;
+}
+IMG.displayed {
+display: block;
+margin-left: auto;
+margin-right: auto }
+div { 
+Height:100px;
+width:100px;
+background-color:#2e613b;
+color:white;
+margin-left:650px;
+margin-top:-100px;
+}
+div.menu:hover {
+    background-color:black;
+}
+span {
+font-size:30px;
+font-family:Avantgarde;
+color:white;
+
+}
+a {
+font-size:30px;
+font-family:Avantgarde;
+color:white;
+
+}
+</style>
+</head>
+<body>
+<h1 class="sobre"> Minha jornada no League of Legends </h1>
+<br>
+<div class="menu" align="center" style="margin-top:0px"><br><br>Sobre mim</div>
+<div class="menu" align="center" style="margin-left:750px"><br><br>Season 4</div>
+<div class="menu" align="center" style="margin-left:850px"><br><br>Season 5</div>
+<div class="menu" align="center" style="margin-left:950px"><br><br>Season 6</div>
+<div class="menu" align="center" style="margin-left:1050px"><br><br>Season 7</div>
+<div class="menu" align="center" style="margin-left:1150px"><br><br>Season 8</div>
+<h1> Sobre mim </h1>
+<p> A primeira vez que joguei foi em 2012, por indicação de meu primo, joguei 2 partidas, gostei do jogo, mas não joguei mais por ter outras coisas para jogar, em 2013 decidi voltar a jogar com alguns amigos, desde de então eu venho jogando esse jogo que me trouxe tantas horas de felicidade, diversão, raiva e ódio.
+<br>O campeão que mais gosto de jogar é Lee Sin.
+<br>Quase não joguei na Season 7.
+<br>Na Season 8 cheguei muito perto do Diamante mas cansei de jogar.
+<br>Quando LoL era a única coisa que jogava, acabei comprando mais de 250 skins, mas faz tempo que não "invisto" dinheiro no jogo.
+<br>Não tenho uma lane preferida, e odeio jogar 2 jogos seguidos com o mesmo campeão.</p>
+<IMG class="displayed" src="https://imgur.com/QA4E0iM.png" alt="Sobre mim">
+<br><br>
+<IMG class="displayed" src="https://imgur.com/lo2KYm6.png" alt="Season4">
+<br><br>
+<IMG class="displayed" src="https://imgur.com/WFNUJfZ.png" alt="Estatísticas">
+<br><br>
+<IMG class="displayed" src="https://imgur.com/o97rtr8.png" alt="Season5">
+<br><br>
+<IMG class="displayed" src="https://imgur.com/OM6AWgz.png" alt="Estatísticas">
+<br><br>
+<IMG class="displayed" src="https://imgur.com/VzkJGCK.png" alt="Season6">
+<br><br>
+<IMG class="displayed" src="https://imgur.com/McK1aNW.png" alt="Estatísticas">
+<br><br>
+<IMG class="displayed" src="https://imgur.com/xlTPSlt.png" alt="Season7">
+<br><br>
+<IMG class="displayed" src="https://imgur.com/uIJR8uy.png" alt="Estatísticas">
+<br><br>
+<IMG class="displayed" src="https://imgur.com/hgNSDq8.png" alt="Season8">
+<br><br>
+<IMG class="displayed" src="https://imgur.com/iLqnw0g.png" alt="Estatísticas">
+<br><br>
+<span>Para uma visão mais completa e detalhada do meu perfil</span> <a href="https://br.op.gg/summoner/userName=ZephyrBR">clique aqui</a>
+
+
+
+
+</body>
+</html>
