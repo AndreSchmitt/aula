@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+ 
+
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+</head>
+<body>
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <a class="navbar-brand" href="#">I</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarNav">
+    <ul class="navbar-nav">
+      <li class="nav-item active">
+        <a class="nav-link" href="C:\Users\7262973.UNIVALI.001\Downloads\aaa.jpg" style="color:blue">Home</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#">Page1</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#">Page2</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#">Page3</a>
+      </li>
+    </ul>
+  </div>
+</nav>
+
+<a class="btn btn-danger" onclick="MeuEvento();">botão</a>
+<div class="card" style="width: 18rem;">
+  <img src="C:\Users\7262973.UNIVALI.001\Downloads\aaa.jpg" class="card-img-top" alt="qqq">
+  <div class="card-body">
+    <h5 class="card-title">Card title</h5>
+    <p class="card-text">Primeira imagem que apareceu no google quando pensquisei "background".</p>
+    <a href="https:google.com" class="btn btn-primary">Go somewhere</a>
+  </div>
+</div>
+<div class="btn-group" role="group" aria-label="Basic example">
+  <button type="button" class="btn btn-secondary">Left</button>
+  <button type="button" class="btn btn-secondary">Middle</button>
+  <button type="button" class="btn btn-secondary">Right</button>
+  <button type="button" class="btn btn-secondary">Right2</button>
+</div>
+<br>
+<a href="#" class="badge badge-primary">Primary</a>
+</body>
+<script>
+function MeuEvento(){
+alert ("olá");
+}
+</script>
+</html>
